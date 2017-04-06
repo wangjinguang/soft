@@ -113,14 +113,9 @@
 
 ## 开源项目推荐
 
-不错的spring boot实践学习案例：https://git.oschina.net/didispace/SpringBoot-Learning
+- 不错的spring boot实践学习案例：https://git.oschina.net/didispace/SpringBoot-Learning
 
 ## 教程整理地址（时间不足，暂缓更新）
 
 http://blog.didispace.com/book/springboot/
-
-## 打赏支持
-
-<img src="http://git.oschina.net/uploads/images/2016/0717/085831_64f0a21e_437188.png" width="200px" height="200px;" /> <img src="http://git.oschina.net/uploads/images/2016/0717/085620_78f6b3cb_437188.png" width="200px" height="200px;" />
-
 
