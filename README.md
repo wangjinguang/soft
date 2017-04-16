@@ -114,6 +114,10 @@
 - chapter9-1-5：[Spring Cloud构建微服务架构（五）服务网关](http://blog.didispace.com/springcloud5/)
 - chapter9-1-6：[Spring Cloud构建微服务架构（六）集群监控]
 
+## 我的新书推荐
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
+
 ## 开源项目推荐
 
 - 不错的spring boot实践学习案例：https://git.oschina.net/jeff1993/springboot-learning-example
