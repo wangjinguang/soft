@@ -1,11 +1,7 @@
 package com.didispace;
 
-import org.apache.commons.logging.Log;
-import org.apache.commons.logging.LogFactory;
 import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.springframework.boot.test.SpringApplicationConfiguration;
-import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+import org.springframework.boot.test.context.SpringBootTest;
 
 
 /**
@@ -15,11 +11,8 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  * @blog http://blog.didispace.com
  *
  */
-@RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(Application.class)
+@SpringBootTest
 public class ApplicationTests {
-
-	private static final Log log = LogFactory.getLog(ApplicationTests.class);
 
 	@Test
 	public void test1() throws Exception {
